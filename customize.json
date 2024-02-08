@@ -1,6 +1,6 @@
 {
-  "name": "Audrey",
-  "greetingText": "Hello mon petit chatou",
+  "name": "Mon petit chatou",
+  "greetingText": "I hope you like this...",
   "wishText": "Do you want to be my valentine?",
-  "imagePath": "img/vector.jpg"
+  "imagePath": "img/audrey.jpg"
 }
